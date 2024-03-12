@@ -1,0 +1,7 @@
+do not read this this is my messy private script for a video idea xd (yes i know this repo is public)
+
+reminds me of tee ints
+https://en.wikipedia.org/wiki/LEB128
+
+So can we call the tee int a "variable-length code compression" ?
+Also is it really called "tee int" ? :D
